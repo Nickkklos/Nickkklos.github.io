@@ -12,19 +12,20 @@
       "countryCode": "China",
       "region": ""
     },
-  "education": [
-    {
-      "institution": "University of Warwick",
-      "area": "Bsc in Mathematics",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2026",
-      "gpa": null,
-      "courses": []
-    },
-  ],
-  "skills": [Python, MATLAB, LaTex],
-  "languages": [Chinese, English],
-  "interests": [],
-  "references": [],
-
+    "education": [
+      {
+        "institution": "University of Warwick",
+        "area": "BSc in Mathematics",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "2026",
+        "gpa": null,
+        "courses": []
+      }
+    ],
+    "skills": ["Python", "MATLAB", "LaTex"],
+    "languages": ["Chinese", "English"],
+    "interests": [],
+    "references": []
+  }
+}
