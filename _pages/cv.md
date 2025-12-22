@@ -16,9 +16,9 @@ Education
 Research Experience
 ======
 * Oct 2025 - Present : Spectral Methods in PDEs
-   * supervisor: [Dwight Barkley](https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/)
+   * supervisor: [Prof. Dwight Barkley](https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/)
 * Jun 2025 - Aug 2025 : Differential Equations in Cell Motility
-  * supervisor: [Björn Stinner Stinner](https://warwick.ac.uk/fac/sci/maths/people/staff/bjorn_stinner/)
+  * supervisor: [Dr Björn Stinnere(https://warwick.ac.uk/fac/sci/maths/people/staff/bjorn_stinner/)
   * A poster summarising my work can be found [here](https://warwick.ac.uk/fac/sci/maths/general/outreach/urss/urss_final.pdf)
 
 
